@@ -71,7 +71,6 @@ Our GUI allows users to input a folder containing images. Once the folder is sel
 https://github.com/ChinmayMundane/Offroad-Nav/assets/109454803/d3acd6a1-dc36-4f55-afb9-222ad51c8271
 
 
-
 # Contributor
 - [Chinmay Mundane](https://github.com/ChinmayMundane)
 
