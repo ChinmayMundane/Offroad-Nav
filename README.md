@@ -76,5 +76,7 @@ Our GUI allows users to input a folder containing images. Once the folder is sel
 
 # GUI Demo
 
+Sometimes, video may not be visible on mobile phones. In that case you can view the  result [here](https://drive.google.com/file/d/1iYfF9q8KJFBL5nbz0fKQe3DqCoM4Jo0_/view?usp=sharing)
+
 https://github.com/ChinmayMundane/Offroad-Nav/assets/109454803/f3f4f3dd-4ef2-465d-9e07-f633dd32c7c3
 
