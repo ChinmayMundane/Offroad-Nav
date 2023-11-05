@@ -80,3 +80,11 @@ Sometimes, video may not be visible on mobile phones. In that case you can view 
 
 https://github.com/ChinmayMundane/Offroad-Nav/assets/109454803/f3f4f3dd-4ef2-465d-9e07-f633dd32c7c3
 
+
+
+
+# Certificate
+
+
+
+![iiserb_internship](https://github.com/ChinmayMundane/Offroad-Nav/assets/109454803/b2a29c96-fea9-4e99-9c63-afaf693768d6)
